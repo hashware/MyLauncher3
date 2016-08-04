@@ -18,7 +18,12 @@ syntax = "proto2";
 
 package launcher_backup;
 
-option javanano_use_deprecated_package = true;
+/*
+http://stackoverflow.com/questions/36477874/importing-project-is-throwing-errors
+https://github.com/google/protobuf/releases
+选项javanano_use_deprecated_package在Version 3.0.0-beta-3中已经移除
+*/
+//option javanano_use_deprecated_package = true;
 option java_package = "com.android.launcher3.backup";
 option java_outer_classname = "BackupProtos";
 

@@ -15,7 +15,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.launcher3.tests">
+    package="com.android.mylauncher3.tests">
 
     <application>
         <uses-library android:name="android.test.runner" />

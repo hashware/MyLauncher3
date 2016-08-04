@@ -13,16 +13,16 @@
  * License for the specific language governing permissions and limitations under
  * the License.
  */
-package com.android.launcher3;
+package com.android.mylauncher3;
 
 import android.graphics.PointF;
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
 import android.util.Log;
 
-import com.android.launcher3.DeviceProfile;
-import com.android.launcher3.InvariantDeviceProfile;
-import com.android.launcher3.util.FocusLogic;
+import com.android.mylauncher3.DeviceProfile;
+import com.android.mylauncher3.InvariantDeviceProfile;
+import com.android.mylauncher3.util.FocusLogic;
 
 import java.util.ArrayList;
 
